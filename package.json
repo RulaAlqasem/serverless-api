@@ -1,0 +1,26 @@
+{
+  "name": "serverless-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RulaAlqasem/serverless-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RulaAlqasem/serverless-api/issues"
+  },
+  "homepage": "https://github.com/RulaAlqasem/serverless-api#readme",
+  "dependencies": {
+    "dynamoose": "^2.7.3",
+    "jest": "^27.0.6",
+    "superagent": "^6.1.0",
+    "supertest": "^6.1.4",
+    "uuid": "^8.3.2"
+  }
+}
